@@ -14,7 +14,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avatar_url: 'https://github.com/thiagoDeviner.png',
+      avatarUrl: 'https://github.com/thiagoDeviner.png',
       name: 'Thiago Vieira',
       role: 'Developer Web Full Stack'
     },
@@ -28,9 +28,9 @@ const posts = [
   {
     id: 2,
     author: {
-      avatar_url: 'https://github.com/fabiacardoso.png',
+      avatarUrl: 'https://github.com/fabiacardoso.png',
       name: 'Fábia Vieira',
-      role: 'Developer Web Full Stack'
+      role: 'Developer Back-End'
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋', },
